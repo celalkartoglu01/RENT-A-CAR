@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1041</width>
+    <height>704</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>-30</x>
+      <y>-40</y>
+      <width>1091</width>
+      <height>721</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>75515051-dark-background-with-spotlights-light-studio.jpg</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>20</y>
+      <width>661</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:24pt; font-style:italic; color:#ffffff;&quot;&gt;C&amp;amp;E RENT A CAR YÖNETİCİ PANELİ&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="aracekle">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>250</y>
+      <width>461</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Araç Ekle</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>desktop-wallpaper-asif-on-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-logo-mercedes-dark-thumbnail.jpg</normaloff>desktop-wallpaper-asif-on-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-logo-mercedes-dark-thumbnail.jpg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="arackaldir">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>400</y>
+      <width>461</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Araç Kaldır</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>desktop-wallpaper-asif-on-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-logo-mercedes-dark-thumbnail.jpg</normaloff>desktop-wallpaper-asif-on-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-logo-mercedes-dark-thumbnail.jpg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="kiradakiaraclar">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>330</y>
+      <width>461</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Kiradaki Araçlar</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>desktop-wallpaper-asif-on-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-logo-mercedes-dark-thumbnail.jpg</normaloff>desktop-wallpaper-asif-on-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-logo-mercedes-dark-thumbnail.jpg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="yoneticiprofil">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>170</y>
+      <width>461</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Profil</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>desktop-wallpaper-asif-on-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-logo-mercedes-dark-thumbnail.jpg</normaloff>desktop-wallpaper-asif-on-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-logo-mercedes-dark-thumbnail.jpg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="aracguncelle">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>470</y>
+      <width>461</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Araç Güncelle</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>desktop-wallpaper-asif-on-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-logo-mercedes-dark-thumbnail.jpg</normaloff>desktop-wallpaper-asif-on-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-logo-mercedes-dark-thumbnail.jpg</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="sikayetler">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>550</y>
+      <width>461</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Şikayetler</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>desktop-wallpaper-asif-on-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-logo-mercedes-dark-thumbnail.jpg</normaloff>desktop-wallpaper-asif-on-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-mercedes-mercedes-benz-logo-mercedes-dark-thumbnail.jpg</iconset>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1041</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
